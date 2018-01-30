@@ -3,6 +3,8 @@
 This was my code from live demoing how to program a hello world in AMD64
 ASM from CovHackSoc's first meetup.
 
+Came up randomly due to interest.
+
 ## Notes
 
 This was targeting Linux running on AMD64, so you won't be able to run it on 32
