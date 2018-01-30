@@ -3,6 +3,11 @@
 This was my code from live demoing how to program a hello world in AMD64
 ASM from CovHackSoc's first meetup.
 
+## Notes
+
+This was targeting Linux running on AMD64, so you won't be able to run it on 32
+bit machines or anything other than Linux.
+
 ## Demo
 
 * started with a blank file and setup the sections `.text` and `.data`.
@@ -15,6 +20,7 @@ explained how changing the value in count effects how much was printed
 * Implemented the exit function so it would stop after one loop. I looked up
 exit() showing another example.
 * Created a loop that would only run 10 times, showing how comparisons are done.
+`cmp` and `jge` are combined with a label.
 
 ## Resources
 
