@@ -24,9 +24,16 @@ exit() showing another example.
 * Created a loop that would only run 10 times, showing how comparisons are done.
 `cmp` and `jge` are combined with a label.
 
+## Further Ideas
+
+* One of the better ways of learning assembly is writing a C program and then
+running a disassembler on it (e.g `objdump -d file`). Be aware of the difference
+in Intel and AT&T syntax [2]
+
 ## Resources
 
 [1] AMD64 Linux syscall table: http://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/
+[2] http://www.imada.sdu.dk/Courses/DM18/Litteratur/IntelnATT.htm
 
 ## Author
 
