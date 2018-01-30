@@ -32,8 +32,9 @@ in Intel and AT&T syntax [2]
 
 ## Resources
 
-[1] AMD64 Linux syscall table: http://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/
-[2] http://www.imada.sdu.dk/Courses/DM18/Litteratur/IntelnATT.htm
+* [1] AMD64 Linux syscall table: http://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/
+
+* [2] http://www.imada.sdu.dk/Courses/DM18/Litteratur/IntelnATT.htm
 
 ## Author
 
