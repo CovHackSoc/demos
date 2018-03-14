@@ -32,7 +32,7 @@ generally be omitted for local builds, but if you want to push your image to a r
 include your username.
 
 Builds are done by: `docker build -t <IMAGE NAME> <PATH TO DOCKERFILE>`. If the Dockerfile is in the current directory, you 
-just need to make it `.`. This is a standard UNIX conventions.
+just need to make it `.`. This works with most UNIX utils.
 
 Most of Dockers commands come from the names of UNIX commands that do the same thing, such as `ls` listing, `rm` removing and 
 `ps` showing running processes.
